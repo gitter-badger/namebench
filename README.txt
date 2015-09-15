@@ -258,3 +258,5 @@ See http://code.google.com/p/namebench/wiki/FAQ for more recent updates.
 
 
 
+
+Join the chat at https://gitter.im/anjerodesu/namebench
